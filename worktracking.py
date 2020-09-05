@@ -21,7 +21,7 @@ import requests
 import pytz
 import asyncio
 
-TOKEN = 'NzE5MDQ4MjYzMzc4MDEwMTQy.Xtxv4Q.WdFDypiBQay-2j3M0jA1R9CyvSw'
+TOKEN = 'YOUR TOKEN'
 get_prefix = '.'
 
 bot = commands.Bot(command_prefix=get_prefix , case_insensitive=True)
